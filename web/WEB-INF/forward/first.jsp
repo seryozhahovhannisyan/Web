@@ -15,13 +15,13 @@ Forward To: <a href="/forward/second">second</a>
 <%!
     @Override
     public void jspInit() {
-        System.out.println("First  jspInit "+ this.hashCode());
+        //System.out.println("First  jspInit "+ this.hashCode());
     }
 
     //https://tomcat.apache.org/tomcat-5.5-doc/jspapi/javax/servlet/jsp/JspPage.html
     @Override
     public void jspDestroy() {
-        System.out.println("First  jspDestroy "+ this.hashCode());
+        //System.out.println("First  jspDestroy "+ this.hashCode());
     }
 
 //     Unable to compile class for JSP:

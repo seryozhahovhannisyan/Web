@@ -16,12 +16,12 @@ Forward to:   <a href="/forward/first">first</a>
 <%!
     @Override
     public void jspInit() {
-        System.out.println("Second jspInit "+ this.hashCode());
+       // System.out.println("Second jspInit "+ this.hashCode());
     }
 
     @Override
     public void jspDestroy() {
-        System.out.println("Second jspDestroy "+ this.hashCode());
+      //  System.out.println("Second jspDestroy "+ this.hashCode());
     }
 
 

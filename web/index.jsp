@@ -21,6 +21,8 @@
     <a href="/tag/HelloTag">HelloTag</a>
 
     http://www.journaldev.com/2110/jsp-interview-questions-and-answers
+    http://www.journaldev.com/2015/servlet-interview-questions-and-answers
+    http://www.journaldev.com/1997/servlet-jdbc-database-connection-example
 </div>
 
 
